@@ -1,3 +1,4 @@
+# Remove delimiter key
 # Semantic Dropdown
 
 This repository contains pre-compiled dropdown files using the default themes. This is intended for use in projects that do not need all the bells and whistles of Semantic UI, and want to keep file size to a minimum.

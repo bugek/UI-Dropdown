@@ -1433,7 +1433,7 @@ $.fn.dropdown = function(parameters) {
           shortcutKeys: function() {
             return {
               backspace  : 8,
-              delimiter  : 188, // comma
+              // delimiter  : 188, // comma
               deleteKey  : 46,
               enter      : 13,
               escape     : 27,
